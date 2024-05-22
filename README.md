@@ -27,7 +27,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Network
 <div>
     <a href="https://wireshark.com/"><img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <a href="https://suricata.io/"><img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
 </div>
 
 ### Endpoint
