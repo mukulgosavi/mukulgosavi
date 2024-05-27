@@ -3,7 +3,7 @@
 
 
 
-I am Security Analyst with 5 years of experience in identifying and mitigating security threats. Proven expertise in incident detection and analysis, intrusion detection and prevention, SIEM management, and incident response. Seeking a challenging role to leverage my technical knowledge and analytical skills in safeguarding organizations' digital assets.
+I am Security Analyst with 6 years of experience in identifying and mitigating security threats. Proven expertise in incident detection and analysis, intrusion detection and prevention, SIEM management, and incident response. Seeking a challenging role to leverage my technical knowledge and analytical skills in safeguarding organizations' digital assets.
 
 ## Objective
 
