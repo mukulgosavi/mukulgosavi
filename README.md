@@ -18,7 +18,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
-| Active Directory SPLUNK Home Lab              | <a href="https://github.com/mukulgosavi/AD-Home-Lab">AD LAB</a>|
+| Active Directory SPLUNK Home Lab              | <a href="https://github.com/mukulgosavi/AD-Home-Lab">AD Home Lab</a>|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
